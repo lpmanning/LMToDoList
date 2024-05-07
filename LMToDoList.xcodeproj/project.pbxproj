@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C4524302BEAA2C6001E2503 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C45242F2BEAA2C6001E2503 /* ToDoItem.swift */; };
 		7CA394102BEA89B700283758 /* LMToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA3940F2BEA89B700283758 /* LMToDoListApp.swift */; };
 		7CA394122BEA89B700283758 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA394112BEA89B700283758 /* ContentView.swift */; };
 		7CA394142BEA89B900283758 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CA394132BEA89B900283758 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C45242F2BEAA2C6001E2503 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		7CA3940C2BEA89B700283758 /* LMToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LMToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CA3940F2BEA89B700283758 /* LMToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LMToDoListApp.swift; sourceTree = "<group>"; };
 		7CA394112BEA89B700283758 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			children = (
 				7CA3940F2BEA89B700283758 /* LMToDoListApp.swift */,
 				7CA394112BEA89B700283758 /* ContentView.swift */,
+				7C45242F2BEAA2C6001E2503 /* ToDoItem.swift */,
 				7CA3941D2BEA8B8100283758 /* NewToDoView.swift */,
 				7CA394132BEA89B900283758 /* Assets.xcassets */,
 				7CA394152BEA89B900283758 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				7CA3941E2BEA8B8100283758 /* NewToDoView.swift in Sources */,
 				7CA394122BEA89B700283758 /* ContentView.swift in Sources */,
+				7C4524302BEAA2C6001E2503 /* ToDoItem.swift in Sources */,
 				7CA394102BEA89B700283758 /* LMToDoListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
